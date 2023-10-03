@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#bgChange{
+    height: 400px;
+    width: 500px;
+    border: 2px solid;
+}
+.color{
+    color: wheat;
+    padding: 15px;
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 22px;
+}
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
+#yellow{
+    background-color: yellow;
+}
+#black{
+    background-color: black;
+}
